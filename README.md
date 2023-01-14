@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**faystmax/faystmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Java Developer with more than 5 years of commertial experience.
 
-Here are some ideas to get you started:
+## 🛠 Technical Stack
+*   Java 8-11, Spring Boot, Maven, Gradle
+*   PostgreSQL, Oracle, H2, Cassandra, Flyway, Liquibase
+*   Spring Framework, Akka, JAX-RS, Kafka
+*   GitHub, GitLab, Bitbucket
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+* [LinkedIn](https://www.linkedin.com/in/amosov-max/)
+* [Telegram](https://t.me/faystmax)
+* <a href='mailto:faystmax@gmail.com'>faystmax@gmail.com</a>
